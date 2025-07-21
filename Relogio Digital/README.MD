@@ -26,10 +26,6 @@ Este é um projeto simples de **Relógio Digital** desenvolvido com **HTML**, **
 * **CSS3**: Estilização e responsividade.
 * **JavaScript (ES6)**: Lógica de funcionamento do relógio.
 
-## 📷 Prévia
-
-![Relógio Digital Screenshot](coloque-aqui-um-link-ou-gif-do-seu-projeto)
-
 ## ✅ Como Usar
 
 1. Clone o repositório:
