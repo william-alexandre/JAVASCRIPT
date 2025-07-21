@@ -1,7 +1,3 @@
-Aqui está uma sugestão de conteúdo para o seu `README.md`, descrevendo o projeto com base nos arquivos que você enviou:
-
----
-
 # ⏰ Relógio Digital
 
 Este é um projeto simples de **Relógio Digital** desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele exibe a hora atual em tempo real no formato de horas, minutos e segundos, com uma interface moderna e responsiva.
